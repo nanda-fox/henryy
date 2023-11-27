@@ -1,0 +1,39 @@
+
+.dois{
+    color: rgb(231, 231, 4);
+    text-align: center;
+    font-size: 60px;
+}
+.um{
+    color: antiquewhite;
+    width: 50%;
+    margin-left: 5%;
+}
+body{
+    background-color: black;
+}
+.tres{
+    color: rgb(235, 46, 13);
+    text-align: center;
+}
+.quatro{
+    color: rgb(5, 4, 4);
+    width: 30%;
+    background-color: rgba(169, 169, 169, 0.521);
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-left: 65%;
+}
+.cinco{
+    color: rgb(247, 247, 247);
+    width: 50%;
+    background-color: rgba(222, 40, 40, 0.521);
+ 
+    margin-left: 10%;
+    padding: 5px;
+   
+}
+.video{
+    margin-top: 5%;
+    margin-left: 35%;
+}
